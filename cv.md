@@ -30,6 +30,7 @@ figure out the better way to do anything, constantly increasing quality of my wo
 * Completed [Netology:Git-version control system](https://u.netology.ngcdn.ru/backend/uploads/legacy/shared_diplomas/pdf_certificate/46993/certificate.pdf)
 * Completed [Netology:Java for Testers](https://u.netology.ngcdn.ru/backend/uploads/legacy/shared_diplomas/pdf_certificate/53152/certificate.pdf)
 * Studying  [job4j:Java](https://job4j.ru/edu/) (now on collections)
+* Studying  [learn.epam.com:Software Testing Introduction](https://learn.epam.com/detailsPage?id=a4a1b6e2-4e51-455d-ac5b-e60f23d4ed69)
 
 **Working on [portfolio site](https://github.com/ShalopaykaQA)**  
 *since 2020, nowdays*
