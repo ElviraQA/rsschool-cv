@@ -1,1 +1,1 @@
-https://ShalopaykaQA.github.io/rsschool-cv/cv
+https://ShalopaykaQA.github.io/rsschool-cv
