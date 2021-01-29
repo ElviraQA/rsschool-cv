@@ -150,7 +150,7 @@ public class BankService {
 
 ◾◾◾◾◽ HTML    
 ◾◾◾◽◽ CSS   
-◾◾◾◾◾ The theory of software testing    
+◾◾◾◾◽ The theory of software testing    
 ◾◾◾◾◽ GIT   
 ◾◾◾◽◽ MySQL  
 ◾◾◾◽◽ Postman   
