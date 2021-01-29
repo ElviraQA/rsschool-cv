@@ -1,1 +1,1 @@
-https://ShalopaykaQA.github.io/rsschool-cv/
+https://ElviraQA.github.io/rsschool-cv/
