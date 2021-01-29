@@ -165,4 +165,4 @@ public class BankService {
 
 E-mail: [semenovaelviraa@gmail.com](mailto:semenovaelviraa@gmail.com)
 
-GitHub: [github.com/ShalopaykaQA](https://github.com/ShalopaykaQA)
+Phone: +7 995 502–33–79
