@@ -25,7 +25,7 @@ figure out the better way to do anything, constantly increasing quality of my wo
 *2015 - 2016* Certificate in Project Management, Moscow International Higher School of Business MIRBIS          
 
 **Self-education:**
-* Completed [https://www.w3schools.com](https://www.w3schools.com/default.asp) (HTML and CSS)
+* Completed [www.w3schools.com (HTML and CSS)](https://www.w3schools.com/default.asp) (and marksheet.io, www.htmldog.com)
 * Completed [Netology:Introduction to testing](https://u.netology.ngcdn.ru/backend/uploads/legacy/shared_diplomas/pdf_certificate/46073/certificate.pdf)
 * Completed [Netology:Git-version control system](https://u.netology.ngcdn.ru/backend/uploads/legacy/shared_diplomas/pdf_certificate/46993/certificate.pdf)
 * Completed [Netology:Java for Testers](https://u.netology.ngcdn.ru/backend/uploads/legacy/shared_diplomas/pdf_certificate/53152/certificate.pdf)
